@@ -2032,7 +2032,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
 	background-color: #ffffff;
-	color: #1d3c20 !important;
+	color: #35633a !important;
 }
 
 input[type="submit"].primary:after,
@@ -2474,7 +2474,7 @@ select {
 
 select option {
 	color: #ffffff;
-	background: #245037;
+	background: #1e462f;
 }
 
 select:focus::-ms-value {
@@ -2643,7 +2643,7 @@ input[type="radio"]+label:before {
 	display: block;
 	background: #ffffff;
 	border-radius: 100%;
-	color: #0f3625;
+	color: #206447;
 	text-align: center;
 	line-height: 2.5em;
 	margin: 0 0 1.3em 0;
@@ -3145,7 +3145,7 @@ body.is-ie .spotlights>section {
 	-webkit-transition: opacity 1s ease;
 	-ms-transition: opacity 1s ease;
 	transition: opacity 1s ease;
-	background: rgba(36, 80, 50, 0.9);
+	background: rgba(48, 100, 64, 0.9);
 	content: '';
 	display: block;
 	height: 100%;
@@ -3647,7 +3647,7 @@ body.is-preload .wrapper.fade>.inner {
 
 #sidebar {
 	padding: 2.5em 2.5em 0.5em 2.5em;
-	background: #2d653e;
+	background: #438a58;
 	cursor: default;
 	height: 100vh;
 	left: 0;
@@ -3885,7 +3885,7 @@ body.is-ie #sidebar>.inner {
 }
 
 #sidebar nav a:before {
-	background: #183c22;
+	background: #30653f;
 }
 
 #sidebar nav a:after {
