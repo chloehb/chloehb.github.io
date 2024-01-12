@@ -2032,7 +2032,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
 	background-color: #ffffff;
-	color: #35633a !important;
+	color: #415744 !important;
 }
 
 input[type="submit"].primary:after,
@@ -2474,7 +2474,7 @@ select {
 
 select option {
 	color: #ffffff;
-	background: #453643;
+	background: #4d6a50;
 }
 
 select:focus::-ms-value {
