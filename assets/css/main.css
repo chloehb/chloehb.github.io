@@ -189,7 +189,7 @@ html {
 }
 
 body {
-	background: #5e5d5c;
+	background: #364a38;
 }
 
 body.is-preload *,
@@ -211,7 +211,7 @@ body,
 input,
 select,
 textarea {
-	color: rgba(215, 238, 214, 0.78);
+	color: rgba(227, 240, 227, 0.78);
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16.5pt;
 	font-weight: normal;
@@ -2658,23 +2658,23 @@ input[type="radio"]+label:before {
 }
 
 .wrapper.style1-alt .icon.major:before {
-	color: #435e46;
+	color: #618966;
 }
 
 .wrapper.style2 .icon.major:before {
-	color: #435e46;
+	color: rgb(87, 138, 94);
 }
 
 .wrapper.style2-alt .icon.major:before {
-	color: #435e46;
+	color: #557659;
 }
 
 .wrapper.style3 .icon.major:before {
-	color: #435e46;
+	color: #7eaa82;
 }
 
 .wrapper.style3-alt .icon.major:before {
-	color: #435e46;
+	color: #5a805f;
 }
 
 /* Image */
