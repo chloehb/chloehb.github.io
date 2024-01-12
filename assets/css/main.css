@@ -211,7 +211,7 @@ body,
 input,
 select,
 textarea {
-	color: rgba(141, 170, 145, 0.55);
+	color: rgba(215, 238, 214, 0.78);
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16.5pt;
 	font-weight: normal;
@@ -314,10 +314,10 @@ h1.major {
 }
 
 h1.major:after {
-	background-image: -moz-linear-gradient(to right, #453643, #28112b);
-	background-image: -webkit-linear-gradient(to right, #453643, #28112b);
-	background-image: -ms-linear-gradient(to right, #453643, #28112b);
-	background-image: linear-gradient(to right, #453643, #28112b);
+	background-image: -moz-linear-gradient(to right, #7eb786, #435e46);
+	background-image: -webkit-linear-gradient(to right, #7eb786, #435e46);
+	background-image: -ms-linear-gradient(to right, #7eb786, #435e46);
+	background-image: linear-gradient(to right, #7eb786, #435e46);
 	-moz-transition: max-width 0.2s ease;
 	-webkit-transition: max-width 0.2s ease;
 	-ms-transition: max-width 0.2s ease;
@@ -2643,7 +2643,7 @@ input[type="radio"]+label:before {
 	display: block;
 	background: #ffffff;
 	border-radius: 100%;
-	color: #206447;
+	color: #364a38;
 	text-align: center;
 	line-height: 2.5em;
 	margin: 0 0 1.3em 0;
@@ -2654,27 +2654,27 @@ input[type="radio"]+label:before {
 }
 
 .wrapper.style1 .icon.major:before {
-	color: #788475;
+	color: #435e46;
 }
 
 .wrapper.style1-alt .icon.major:before {
-	color: #5e5d5c;
+	color: #435e46;
 }
 
 .wrapper.style2 .icon.major:before {
-	color: #788475;
+	color: #435e46;
 }
 
 .wrapper.style2-alt .icon.major:before {
-	color: #5e5d5c;
+	color: #435e46;
 }
 
 .wrapper.style3 .icon.major:before {
-	color: #453643;
+	color: #435e46;
 }
 
 .wrapper.style3-alt .icon.major:before {
-	color: #453643;
+	color: #435e46;
 }
 
 /* Image */
@@ -3359,31 +3359,31 @@ table.alt tfoot {
 }
 
 .wrapper.alt {
-	background-color: #8daa91;
+	background-color: #6d9b73;
 }
 
 .wrapper.style1 {
-	background-color: #788475;
+	background-color: #6d9b73;
 }
 
 .wrapper.style1-alt {
-	background-color: #5e5d5c;
+	background-color: #6d9b73;
 }
 
 .wrapper.style2 {
-	background-color: #453643;
+	background-color: #6d9b73;
 }
 
 .wrapper.style2-alt {
-	background-color: #28112b;
+	background-color: #6d9b73;
 }
 
 .wrapper.style3 {
-	background-color: #5e5d5c;
+	background-color: #6d9b73;
 }
 
 .wrapper.style3-alt {
-	background-color: #453643;
+	background-color: #6d9b73;
 }
 
 .wrapper.fullscreen {
@@ -3889,10 +3889,10 @@ body.is-ie #sidebar>.inner {
 }
 
 #sidebar nav a:after {
-	background-image: -moz-linear-gradient(to right, #788475, #5e5d5c);
-	background-image: -webkit-linear-gradient(to right, #788475, #5e5d5c);
-	background-image: -ms-linear-gradient(to right, #788475, #5e5d5c);
-	background-image: linear-gradient(to right, #788475, #5e5d5c);
+	background-image: -moz-linear-gradient(to right,#7eb786,#435e46);
+	background-image: -webkit-linear-gradient(to right, #7eb786, #435e46);
+	background-image: -ms-linear-gradient(to right, #7eb786, #435e46);
+	background-image: linear-gradient(to right, #7eb786, #435e46);
 	-moz-transition: max-width 0.2s ease;
 	-webkit-transition: max-width 0.2s ease;
 	-ms-transition: max-width 0.2s ease;
